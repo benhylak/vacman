@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 983fc2e50b7b08648b283f9593144375
+timeCreated: 1491657714
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: L 1
+    100004: L_Chip
+    100006: L_Chip_001
+    100008: L_Chip_002
+    100010: L_Chip_003
+    100012: L_Chip_004
+    100014: L_Chip_005
+    100016: L_Chip_006
+    100018: L_Chip_007
+    100020: L_Chip_008
+    100022: L_Chip_009
+    100024: L_Chip_042
+    100026: L_Chip_043
+    100028: L_Chip_044
+    100030: L_Chip_045
+    100032: L_Chip_046
+    100034: L_Chip_047
+    100036: L_Chip_048
+    100038: L_Chip_049
+    100040: L_Chip_050
+    100042: L_Chip_051
+    100044: L_Chip_052
+    100046: L_Chip_053
+    100048: L_Chip_054
+    100050: L_Chip_055
+    100052: L_Chip_056
+    100054: L_Chip_057
+    100056: L_Chip_058
+    100058: L_Chip_059
+    100060: L_Chip_060
+    100062: L_Chip_061
+    100064: L_Chip_062
+    100066: L_motherboard
+    400000: //RootNode
+    400002: L 1
+    400004: L_Chip
+    400006: L_Chip_001
+    400008: L_Chip_002
+    400010: L_Chip_003
+    400012: L_Chip_004
+    400014: L_Chip_005
+    400016: L_Chip_006
+    400018: L_Chip_007
+    400020: L_Chip_008
+    400022: L_Chip_009
+    400024: L_Chip_042
+    400026: L_Chip_043
+    400028: L_Chip_044
+    400030: L_Chip_045
+    400032: L_Chip_046
+    400034: L_Chip_047
+    400036: L_Chip_048
+    400038: L_Chip_049
+    400040: L_Chip_050
+    400042: L_Chip_051
+    400044: L_Chip_052
+    400046: L_Chip_053
+    400048: L_Chip_054
+    400050: L_Chip_055
+    400052: L_Chip_056
+    400054: L_Chip_057
+    400056: L_Chip_058
+    400058: L_Chip_059
+    400060: L_Chip_060
+    400062: L_Chip_061
+    400064: L_Chip_062
+    400066: L_motherboard
+    2300000: L 1
+    2300002: L_Chip_001
+    2300004: L_Chip_002
+    2300006: L_Chip_003
+    2300008: L_Chip_004
+    2300010: L_Chip_005
+    2300012: L_Chip_006
+    2300014: L_Chip_007
+    2300016: L_Chip_008
+    2300018: L_Chip_009
+    2300020: L_Chip_042
+    2300022: L_Chip_043
+    2300024: L_Chip_044
+    2300026: L_Chip_045
+    2300028: L_Chip_046
+    2300030: L_Chip_047
+    2300032: L_Chip_048
+    2300034: L_Chip_049
+    2300036: L_Chip_050
+    2300038: L_Chip_051
+    2300040: L_Chip_052
+    2300042: L_Chip_053
+    2300044: L_Chip_054
+    2300046: L_Chip_055
+    2300048: L_Chip_056
+    2300050: L_Chip_057
+    2300052: L_Chip_058
+    2300054: L_Chip_059
+    2300056: L_Chip_060
+    2300058: L_Chip_061
+    2300060: L_Chip_062
+    2300062: L_motherboard
+    3300000: L 1
+    3300002: L_Chip_001
+    3300004: L_Chip_002
+    3300006: L_Chip_003
+    3300008: L_Chip_004
+    3300010: L_Chip_005
+    3300012: L_Chip_006
+    3300014: L_Chip_007
+    3300016: L_Chip_008
+    3300018: L_Chip_009
+    3300020: L_Chip_042
+    3300022: L_Chip_043
+    3300024: L_Chip_044
+    3300026: L_Chip_045
+    3300028: L_Chip_046
+    3300030: L_Chip_047
+    3300032: L_Chip_048
+    3300034: L_Chip_049
+    3300036: L_Chip_050
+    3300038: L_Chip_051
+    3300040: L_Chip_052
+    3300042: L_Chip_053
+    3300044: L_Chip_054
+    3300046: L_Chip_055
+    3300048: L_Chip_056
+    3300050: L_Chip_057
+    3300052: L_Chip_058
+    3300054: L_Chip_059
+    3300056: L_Chip_060
+    3300058: L_Chip_061
+    3300060: L_Chip_062
+    3300062: L_motherboard
+    4300000: L_motherboard
+    4300002: L
+    4300004: L_Chip_005
+    4300006: L_Chip_046
+    4300008: L_Chip_062
+    4300010: L_Chip_055
+    4300012: L_Chip_052
+    4300014: L_Chip_003
+    4300016: L_Chip_009
+    4300018: L_Chip_044
+    4300020: L_Chip_058
+    4300022: L_Chip_060
+    4300024: L_Chip_004
+    4300026: L_Chip_043
+    4300028: L_Chip_001
+    4300030: L_Chip_008
+    4300032: L_Chip_042
+    4300034: L_Chip_048
+    4300036: L_Chip_006
+    4300038: L_Chip_007
+    4300040: L_Chip_051
+    4300042: L_Chip_053
+    4300044: L_Chip_049
+    4300046: L_Chip_045
+    4300048: L_Chip_050
+    4300050: L_Chip_061
+    4300052: L_Chip_056
+    4300054: L_Chip_059
+    4300056: L_Chip_047
+    4300058: L_Chip_002
+    4300060: L_Chip_057
+    4300062: L_Chip_054
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

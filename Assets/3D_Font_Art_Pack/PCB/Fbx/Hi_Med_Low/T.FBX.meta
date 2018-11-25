@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 5702a02d595dbab479fc9df6a1f8fa5e
+timeCreated: 1491657712
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: T 1
+    100004: T_Chip
+    100006: T_Chip_001
+    100008: T_Chip_003
+    100010: T_Chip_005
+    100012: T_Chip_006
+    100014: T_Chip_007
+    100016: T_Chip_008
+    100018: T_Chip_009
+    100020: T_Chip_010
+    100022: T_Chip_011
+    100024: T_Chip_012
+    100026: T_Chip_013
+    100028: T_Chip_014
+    100030: T_Chip_015
+    100032: T_Chip_016
+    100034: T_Chip_017
+    100036: T_Chip_018
+    100038: T_Chip_019
+    100040: T_Chip_020
+    100042: T_Chip_021
+    100044: T_Chip_022
+    100046: T_Chip_023
+    100048: T_Chip_024
+    100050: T_Chip_025
+    100052: T_Chip_026
+    100054: T_Chip_027
+    100056: T_Chip_028
+    100058: T_Chip_029
+    100060: T_motherboard
+    400000: //RootNode
+    400002: T 1
+    400004: T_Chip
+    400006: T_Chip_001
+    400008: T_Chip_003
+    400010: T_Chip_005
+    400012: T_Chip_006
+    400014: T_Chip_007
+    400016: T_Chip_008
+    400018: T_Chip_009
+    400020: T_Chip_010
+    400022: T_Chip_011
+    400024: T_Chip_012
+    400026: T_Chip_013
+    400028: T_Chip_014
+    400030: T_Chip_015
+    400032: T_Chip_016
+    400034: T_Chip_017
+    400036: T_Chip_018
+    400038: T_Chip_019
+    400040: T_Chip_020
+    400042: T_Chip_021
+    400044: T_Chip_022
+    400046: T_Chip_023
+    400048: T_Chip_024
+    400050: T_Chip_025
+    400052: T_Chip_026
+    400054: T_Chip_027
+    400056: T_Chip_028
+    400058: T_Chip_029
+    400060: T_motherboard
+    2300000: T 1
+    2300002: T_Chip_001
+    2300004: T_Chip_003
+    2300006: T_Chip_005
+    2300008: T_Chip_006
+    2300010: T_Chip_007
+    2300012: T_Chip_008
+    2300014: T_Chip_009
+    2300016: T_Chip_010
+    2300018: T_Chip_011
+    2300020: T_Chip_012
+    2300022: T_Chip_013
+    2300024: T_Chip_014
+    2300026: T_Chip_015
+    2300028: T_Chip_016
+    2300030: T_Chip_017
+    2300032: T_Chip_018
+    2300034: T_Chip_019
+    2300036: T_Chip_020
+    2300038: T_Chip_021
+    2300040: T_Chip_022
+    2300042: T_Chip_023
+    2300044: T_Chip_024
+    2300046: T_Chip_025
+    2300048: T_Chip_026
+    2300050: T_Chip_027
+    2300052: T_Chip_028
+    2300054: T_Chip_029
+    2300056: T_motherboard
+    3300000: T 1
+    3300002: T_Chip_001
+    3300004: T_Chip_003
+    3300006: T_Chip_005
+    3300008: T_Chip_006
+    3300010: T_Chip_007
+    3300012: T_Chip_008
+    3300014: T_Chip_009
+    3300016: T_Chip_010
+    3300018: T_Chip_011
+    3300020: T_Chip_012
+    3300022: T_Chip_013
+    3300024: T_Chip_014
+    3300026: T_Chip_015
+    3300028: T_Chip_016
+    3300030: T_Chip_017
+    3300032: T_Chip_018
+    3300034: T_Chip_019
+    3300036: T_Chip_020
+    3300038: T_Chip_021
+    3300040: T_Chip_022
+    3300042: T_Chip_023
+    3300044: T_Chip_024
+    3300046: T_Chip_025
+    3300048: T_Chip_026
+    3300050: T_Chip_027
+    3300052: T_Chip_028
+    3300054: T_Chip_029
+    3300056: T_motherboard
+    4300000: T_motherboard
+    4300002: T
+    4300004: T_Chip_003
+    4300006: T_Chip_025
+    4300008: T_Chip_026
+    4300010: T_Chip_012
+    4300012: T_Chip_014
+    4300014: T_Chip_013
+    4300016: T_Chip_028
+    4300018: T_Chip_027
+    4300020: T_Chip_015
+    4300022: T_Chip_021
+    4300024: T_Chip_017
+    4300026: T_Chip_023
+    4300028: T_Chip_022
+    4300030: T_Chip_010
+    4300032: T_Chip_005
+    4300034: T_Chip_006
+    4300036: T_Chip_001
+    4300038: T_Chip_020
+    4300040: T_Chip_019
+    4300042: T_Chip_007
+    4300044: T_Chip_011
+    4300046: T_Chip_018
+    4300048: T_Chip_009
+    4300050: T_Chip_024
+    4300052: T_Chip_008
+    4300054: T_Chip_029
+    4300056: T_Chip_016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

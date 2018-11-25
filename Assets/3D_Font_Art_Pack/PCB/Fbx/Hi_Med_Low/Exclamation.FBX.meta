@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 51d7a056bace1fa4193256a48095e942
+timeCreated: 1491657711
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Exclamation 1
+    100004: Exclamation_Chip
+    100006: Exclamation_Chip_001
+    100008: Exclamation_Chip_002
+    100010: Exclamation_Chip_003
+    100012: Exclamation_Chip_004
+    100014: Exclamation_Chip_005
+    100016: Exclamation_Chip_006
+    100018: Exclamation_Chip_007
+    100020: Exclamation_Chip_008
+    100022: Exclamation_Chip_009
+    100024: Exclamation_Chip_010
+    100026: Exclamation_Chip_011
+    100028: Exclamation_Chip_012
+    100030: Exclamation_Chip_013
+    100032: Exclamation_Chip_014
+    100034: Exclamation_Chip_015
+    100036: Exclamation_Chip_016
+    100038: Exclamation_Chip_017
+    100040: Exclamation_motherboard
+    400000: //RootNode
+    400002: Exclamation 1
+    400004: Exclamation_Chip
+    400006: Exclamation_Chip_001
+    400008: Exclamation_Chip_002
+    400010: Exclamation_Chip_003
+    400012: Exclamation_Chip_004
+    400014: Exclamation_Chip_005
+    400016: Exclamation_Chip_006
+    400018: Exclamation_Chip_007
+    400020: Exclamation_Chip_008
+    400022: Exclamation_Chip_009
+    400024: Exclamation_Chip_010
+    400026: Exclamation_Chip_011
+    400028: Exclamation_Chip_012
+    400030: Exclamation_Chip_013
+    400032: Exclamation_Chip_014
+    400034: Exclamation_Chip_015
+    400036: Exclamation_Chip_016
+    400038: Exclamation_Chip_017
+    400040: Exclamation_motherboard
+    2300000: Exclamation 1
+    2300002: Exclamation_Chip_001
+    2300004: Exclamation_Chip_002
+    2300006: Exclamation_Chip_003
+    2300008: Exclamation_Chip_004
+    2300010: Exclamation_Chip_005
+    2300012: Exclamation_Chip_006
+    2300014: Exclamation_Chip_007
+    2300016: Exclamation_Chip_008
+    2300018: Exclamation_Chip_009
+    2300020: Exclamation_Chip_010
+    2300022: Exclamation_Chip_011
+    2300024: Exclamation_Chip_012
+    2300026: Exclamation_Chip_013
+    2300028: Exclamation_Chip_014
+    2300030: Exclamation_Chip_015
+    2300032: Exclamation_Chip_016
+    2300034: Exclamation_Chip_017
+    2300036: Exclamation_motherboard
+    3300000: Exclamation 1
+    3300002: Exclamation_Chip_001
+    3300004: Exclamation_Chip_002
+    3300006: Exclamation_Chip_003
+    3300008: Exclamation_Chip_004
+    3300010: Exclamation_Chip_005
+    3300012: Exclamation_Chip_006
+    3300014: Exclamation_Chip_007
+    3300016: Exclamation_Chip_008
+    3300018: Exclamation_Chip_009
+    3300020: Exclamation_Chip_010
+    3300022: Exclamation_Chip_011
+    3300024: Exclamation_Chip_012
+    3300026: Exclamation_Chip_013
+    3300028: Exclamation_Chip_014
+    3300030: Exclamation_Chip_015
+    3300032: Exclamation_Chip_016
+    3300034: Exclamation_Chip_017
+    3300036: Exclamation_motherboard
+    4300000: Exclamation_motherboard
+    4300002: Exclamation
+    4300004: Exclamation_Chip_006
+    4300006: Exclamation_Chip_016
+    4300008: Exclamation_Chip_004
+    4300010: Exclamation_Chip_003
+    4300012: Exclamation_Chip_007
+    4300014: Exclamation_Chip_011
+    4300016: Exclamation_Chip_002
+    4300018: Exclamation_Chip_017
+    4300020: Exclamation_Chip_010
+    4300022: Exclamation_Chip_005
+    4300024: Exclamation_Chip_012
+    4300026: Exclamation_Chip_008
+    4300028: Exclamation_Chip_009
+    4300030: Exclamation_Chip_001
+    4300032: Exclamation_Chip_015
+    4300034: Exclamation_Chip_014
+    4300036: Exclamation_Chip_013
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

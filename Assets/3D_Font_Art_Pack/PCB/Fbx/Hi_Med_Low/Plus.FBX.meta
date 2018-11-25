@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 0817cbbe6f519f3409c54ca81d827513
+timeCreated: 1491657708
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plus 1
+    100004: Plus_Chip
+    100006: Plus_Chip_001
+    100008: Plus_Chip_002
+    100010: Plus_Chip_003
+    100012: Plus_Chip_004
+    100014: Plus_Chip_005
+    100016: Plus_Chip_006
+    100018: Plus_Chip_007
+    100020: Plus_Chip_008
+    100022: Plus_Chip_009
+    100024: Plus_Chip_010
+    100026: Plus_Chip_011
+    100028: Plus_Chip_012
+    100030: Plus_Chip_013
+    100032: Plus_Chip_014
+    100034: Plus_Chip_015
+    100036: Plus_Chip_016
+    100038: Plus_Chip_017
+    100040: Plus_motherboard
+    400000: //RootNode
+    400002: Plus 1
+    400004: Plus_Chip
+    400006: Plus_Chip_001
+    400008: Plus_Chip_002
+    400010: Plus_Chip_003
+    400012: Plus_Chip_004
+    400014: Plus_Chip_005
+    400016: Plus_Chip_006
+    400018: Plus_Chip_007
+    400020: Plus_Chip_008
+    400022: Plus_Chip_009
+    400024: Plus_Chip_010
+    400026: Plus_Chip_011
+    400028: Plus_Chip_012
+    400030: Plus_Chip_013
+    400032: Plus_Chip_014
+    400034: Plus_Chip_015
+    400036: Plus_Chip_016
+    400038: Plus_Chip_017
+    400040: Plus_motherboard
+    2300000: Plus 1
+    2300002: Plus_Chip_001
+    2300004: Plus_Chip_002
+    2300006: Plus_Chip_003
+    2300008: Plus_Chip_004
+    2300010: Plus_Chip_005
+    2300012: Plus_Chip_006
+    2300014: Plus_Chip_007
+    2300016: Plus_Chip_008
+    2300018: Plus_Chip_009
+    2300020: Plus_Chip_010
+    2300022: Plus_Chip_011
+    2300024: Plus_Chip_012
+    2300026: Plus_Chip_013
+    2300028: Plus_Chip_014
+    2300030: Plus_Chip_015
+    2300032: Plus_Chip_016
+    2300034: Plus_Chip_017
+    2300036: Plus_motherboard
+    3300000: Plus 1
+    3300002: Plus_Chip_001
+    3300004: Plus_Chip_002
+    3300006: Plus_Chip_003
+    3300008: Plus_Chip_004
+    3300010: Plus_Chip_005
+    3300012: Plus_Chip_006
+    3300014: Plus_Chip_007
+    3300016: Plus_Chip_008
+    3300018: Plus_Chip_009
+    3300020: Plus_Chip_010
+    3300022: Plus_Chip_011
+    3300024: Plus_Chip_012
+    3300026: Plus_Chip_013
+    3300028: Plus_Chip_014
+    3300030: Plus_Chip_015
+    3300032: Plus_Chip_016
+    3300034: Plus_Chip_017
+    3300036: Plus_motherboard
+    4300000: Plus
+    4300002: Plus_motherboard
+    4300004: Plus_Chip_004
+    4300006: Plus_Chip_015
+    4300008: Plus_Chip_017
+    4300010: Plus_Chip_014
+    4300012: Plus_Chip_016
+    4300014: Plus_Chip_008
+    4300016: Plus_Chip_009
+    4300018: Plus_Chip_005
+    4300020: Plus_Chip_012
+    4300022: Plus_Chip_010
+    4300024: Plus_Chip_011
+    4300026: Plus_Chip_006
+    4300028: Plus_Chip_007
+    4300030: Plus_Chip_002
+    4300032: Plus_Chip_003
+    4300034: Plus_Chip_013
+    4300036: Plus_Chip_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
